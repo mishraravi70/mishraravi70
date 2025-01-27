@@ -12,15 +12,14 @@ I'm a passionate data scientist with a strong background in statistical analysis
 
 ## 🛠️ Technologies and Tools
 - **Languages:** Python, R, SQL
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, NLTK, SpaCy
-- **Tools:** Jupyter, Git, Docker, Tableau, Power BI
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, NLTK, SpaCy,pytorch ,streamlit,gradio,ocr
+- **Tools:** Jupyter, Git, Docker,  Power BI,AWS
 
 ## 📈 GitHub Stats
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishraravi70&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website/Blog](https://your-website.com)
 
 ## 🏆 GitHub Trophies
@@ -38,10 +37,10 @@ A chatbot designed to provide health-related information and support using natur
 ### [Image Compression](link-to-project-1)
 A project focused on reducing the size of images without compromising their quality using advanced algorithms and machine learning techniques.
 
-### [Project Name 2](link-to-project-2)
-A brief description of what this project entails and its significance.
+### [text extraction from any document](link-to-project-2)
+text exracting from any document using ocr and llms ,upload a image and you will get the snap of the picture in well format.
 
-### [Project Name 3](link-to-project-3)
-A brief description of what this project entails and its significance.
+### [resume-screening app](link-to-project-3)
+upload your ressume and it will sortlist based on your ressume.
 
 Feel free to check out my [GitHub profile](https://github.com/mishraravi70) for more projects and contributions.
